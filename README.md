@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **serkam31/SERKAM31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Salut, moi c’est Matéo !
+
+🚀 **Étudiant en Intelligence Artificielle à Holberton School**
+
+---
+
+### 📊 Mes statistiques GitHub
+![Statistiques GitHub](https://gitmystat.vercel.app/user?username=serkam31)
+
+![Langages les plus utilisés](https://gitmystat.vercel.app/top?username=serkam31&layout=compact)
+
+---
