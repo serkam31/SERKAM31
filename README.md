@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![Langages les plus utilisés](https://gitmystat.vercel.app/top?username=serkam31&layout=compact)
 
 ---
+![Snake animation](https://github.com/serkam31/serkam31/raw/output/github-contribution-grid-snake.svg)
