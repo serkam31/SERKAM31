@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm serkam31
 
-### A passionate artificial intelligence student
+### A passionate artificial intelligence student at Holberton school France
 
 
 <h3 align="left">Connect with me:</h3>
